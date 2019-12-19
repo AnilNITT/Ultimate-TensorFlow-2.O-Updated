@@ -1,4 +1,5 @@
-<h1 align='center' style="color=green">TensorFlow 2.0
+<h1 align='center' style="color:green">TensorFlow 2.0</h1>
+  
 ---------------------------------------------------------------------------
 ![maxresdefault](https://user-images.githubusercontent.com/42931974/68347977-a65d4b00-011e-11ea-87c6-d3e695ac6cba.jpg)
 # --------------------------------------------------------------
